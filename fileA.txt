@@ -1,2 +1,3 @@
 this is a change in master
 some addition from the branch featureX
+some new stuff
